@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="service.PersonServiceTest" tests="5" skipped="0" failures="0" errors="0" timestamp="2022-12-10T01:20:19" hostname="DESKTOP-3T4QTP9" time="0.74">
+  <properties/>
+  <testcase name="testPersonIdIsNotValid()" classname="service.PersonServiceTest" time="0.671"/>
+  <testcase name="testRegisterPersonNameIsBlank()" classname="service.PersonServiceTest" time="0.003"/>
+  <testcase name="testGetPersonSuccess()" classname="service.PersonServiceTest" time="0.048"/>
+  <testcase name="testPersonNotFound()" classname="service.PersonServiceTest" time="0.002"/>
+  <testcase name="testRegisterSuccess()" classname="service.PersonServiceTest" time="0.013"/>
+  <system-out><![CDATA[]]></system-out>
+  <system-err><![CDATA[]]></system-err>
+</testsuite>
